@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af385486-c58c-4038-8645-47ff6a5bb877" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cursafy/IA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursafy/competencias.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursafy/cursos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursafy/usuarios.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursafy/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/IA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursafy/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursafy_users/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,16 +50,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.Backend.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/class/Desktop/Semestre 8/Cursafy/Backend/cursafy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\class\Desktop\Semestre 8\Cursafy\Backend\cursafy" />
+      <recent name="C:\Users\class\Desktop\Semestre 8\Cursafy\Backend\courses" />
+      <recent name="C:\Users\class\Desktop\Semestre 8\Cursafy\Backend\cursafy_users" />
+      <recent name="C:\Users\class\Desktop\Semestre 8\Cursafy\Backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\class\Desktop\Semestre 8\Cursafy\Backend\cursafy" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Backend" type="Python.DjangoServer" factoryName="Django server">
       <module name="Backend" />
@@ -43,6 +84,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Backend.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -77,7 +119,25 @@
       <option name="presentableId" value="Default" />
       <updated>1715896233265</updated>
       <workItem from="1715896284977" duration="2000" />
+      <workItem from="1716856773887" duration="4546000" />
+      <workItem from="1717011787127" duration="4339000" />
+      <workItem from="1717077409697" duration="1055000" />
+      <workItem from="1717103386969" duration="1744000" />
+      <workItem from="1717177222265" duration="616000" />
+      <workItem from="1717266037121" duration="591000" />
+      <workItem from="1717389939669" duration="1544000" />
+      <workItem from="1717395509776" duration="6331000" />
+      <workItem from="1717459957269" duration="597000" />
+      <workItem from="1717511403970" duration="597000" />
+      <workItem from="1717599296009" duration="30357000" />
+      <workItem from="1717968625122" duration="252000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Backend$manage.coverage" NAME="manage Coverage Results" MODIFIED="1716594381966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
